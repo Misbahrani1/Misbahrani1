@@ -15,10 +15,10 @@
   <a href="https://github.com/Misbahrani1">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
+  <a href="https://youtube.com/@misbahrani202?si=_N-GCqDimB66M5M_">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="https://www.instagram.com/axif_taj">
+   <a href="https://www.instagram.com/misbahrani226?igsh=MTFuZ2I0aDBjNXlkcw=="
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://www.facebook.com/profile.php?id=100092411393519&mibextid=ZbWKwL">
